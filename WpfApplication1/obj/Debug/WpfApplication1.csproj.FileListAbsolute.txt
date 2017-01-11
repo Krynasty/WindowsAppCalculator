@@ -1,0 +1,12 @@
+c:\users\dan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+c:\users\dan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+c:\users\dan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+c:\users\dan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+c:\users\dan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+c:\users\dan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\CalculatorApp.exe
+c:\users\dan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\CalculatorApp.pdb
+c:\users\dan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\CalculatorApp_MarkupCompile.cache
+c:\users\dan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\CalculatorApp.g.resources
+c:\users\dan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\CalculatorApp.Properties.Resources.resources
+c:\users\dan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\CalculatorApp.exe
+c:\users\dan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\CalculatorApp.pdb
